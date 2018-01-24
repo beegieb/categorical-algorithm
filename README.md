@@ -1,0 +1,3 @@
+# Categorical Algorithm
+
+## Installation
